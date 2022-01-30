@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandeep Kumar
-- 👀 I’m interested in Full Stack Developer
+- 👀 I’m interested in Full Stack Developer job
 - 🌱 I’m currently learning Full Stack Developer course.
 - 📫 How to reach me : LinkedIn- www.linkedin.com/in/sandeep-kumar-01b2b6148
 
